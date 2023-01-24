@@ -2,7 +2,7 @@
 Sou um estudante de desenvolvimento web apaixonado por tecnologia. <br>
 Dedico-me ao aprendizado constante e estou a procura de novas oportunidades de crescimento. <br>
 Sou talentoso e pronto para enfrentar desafios e adquirir novas habilidades. <br>
-Atualmente estou estudando <b>React</b> e <b>PHP</b>.
+Atualmente estou estudando <b>React</b> e <b>Node</b>.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
