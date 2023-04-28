@@ -1,10 +1,29 @@
 <ul>
-  <li>Desenvolvedor Web Júnior</li>
-  <li>Conhecimentos: TypeScript, JavaScript, React, Svelte, NodeJS, API, SQL</li>
-  <li>Meu Foco: Tenho foco na área de Front-End, mas tenho conhecimentos no Back-End.</li>
-  <li>Demais Conhecimentos: SEO, UI Design, Scrum</li>
+  <li>Desenvolvedor Web Júnior :high_brightness:</li> 
+  <li>Pernambuco, Recife :city_sunrise:</li>
+  <li>Meu Foco: Web FullStack.</li>
 </ul>
 <br>
+
+<p>
+Desenvolvedor Web Júnior, com conhecimentos em <strong>TypeScript</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Svelte</strong>, <strong>NodeJS</strong>, <strong>API</strong>, <strong>MySQL</strong> e <strong>PostgreSQL</strong>. Tenho como foco me tornar um desenvolvedor fullstack, no momento tenho mais conhecimentos no Front-End e atualmente estou estudando mais Back-End.  
+</p>
+
+<h4>O que estou fazendo atualmente: </h4>
+<ul>
+  <li>Estudando e praticando criação de API's com NodeJS e ORM :coffee:</li>
+  <li>Estudando e praticando TypeScript :blue_square:</li>
+</ul>
+
+<h4>Outros conhecimentos:</h4>
+<ul>
+  <li>UX/UI</li>
+  <li>SCRUM</li>
+</ul>
+
+<h2><a href="https://paulohldev.github.io/portfolio" target="_blank">Acessar portfólio</a></h2>
+
+
 
 <div align="center">
   <a href="https://github.com/paulohldev">
