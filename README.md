@@ -6,19 +6,13 @@
 <br>
 
 <p>
-Desenvolvedor Web Júnior, com conhecimentos em <strong>TypeScript</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Svelte</strong>, <strong>NodeJS</strong>, <strong>API</strong>, <strong>MySQL</strong> e <strong>PostgreSQL</strong>. Tenho como foco me tornar um desenvolvedor fullstack, no momento tenho mais conhecimentos no Front-End e atualmente estou estudando mais Back-End.  
+Desenvolvedor Web Júnior, com conhecimentos em <strong>TypeScript</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Svelte</strong>, <strong>NodeJS</strong>, <strong>API</strong>, <strong>SQL</strong> e <strong>SCRUM</strong>. Tenho como foco me tornar um desenvolvedor fullstack, no momento tenho mais conhecimentos no Front-End e atualmente estou estudando mais Back-End.  
 </p>
 
 <h4>O que estou fazendo atualmente: </h4>
 <ul>
   <li>Estudando e praticando criação de API's com NodeJS e ORM :coffee:</li>
   <li>Estudando e praticando TypeScript :blue_square:</li>
-</ul>
-
-<h4>Outros conhecimentos:</h4>
-<ul>
-  <li>UX/UI</li>
-  <li>SCRUM</li>
 </ul>
 
 <h2><a href="https://paulohldev.github.io/portfolio" target="_blank">Acessar portfólio</a></h2>
