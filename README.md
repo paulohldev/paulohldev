@@ -36,12 +36,6 @@ Desenvolvedor Web Júnior, com conhecimentos em <strong>TypeScript</strong>, <st
   <img align="center" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-<div style="display: inline_block" align="center"><br>
-<h2 align="center">Bancos de Dados</h2>
-  <img align="center" alt="PostgresSQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
-
 <br>
 
  <h2 align="center">Contato e LinkedIn</h2>
